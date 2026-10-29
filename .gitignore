@@ -1,0 +1,8 @@
+data/election.json
+data/election.json.tmp
+uploads/candidates/*
+!uploads/candidates/.gitkeep
+node_modules/
+.env
+.env.*
+!.env.example
